@@ -77,8 +77,8 @@ img{
 /*END HEADER*/
 @media(min-width: 1200px){}
 @media(min-width: 992px and max-width: 1199px){
-    #lodo-img{
-        background: url('../images/restaurant-logo_medium.png') no-repeat;
+    #logo-img{
+        background: url(../images/restaurant-logo_medium.png) no-repeat;
         width: 100px;
         height: 100px;
         margin: 5px 5px 5px 0;
